@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm 6amdev
 
 [🇬🇧 English](#english) | [🇹🇭 ภาษาไทย](#thai)
 
@@ -34,7 +34,7 @@ Full-Stack Developer and System Engineer with **15+ years** of hands-on experien
 - **DevOps:** Linux administration, Shell scripting, Kernel compilation, Grafana monitoring
 
 #### **Frontend Development**
-- **Frameworks:** Angular (Proficient), React.js, Vue.js
+- **Frameworks:** HTML5, CSS, Angular (Proficient), React.js, Vue.js
 - **Styling:** Bootstrap, Tailwind CSS
 - **Mobile:** Flutter, Ionic Framework
 
@@ -81,10 +81,10 @@ DevOps/Infrastructure ██████████░░░ 80%
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ### 📫 Get In Touch
-- 📧 **Email:** your.email@gmail.com
+- 📧 **Email:** 6amdev@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- 📱 **Phone:** +66-XX-XXX-XXXX
+- 🌐 **Portfolio:** [yourwebsite.com](https://6amdev.com)
+- 📱 **Phone:** +66-96-914-0962
 
 ---
 
@@ -118,7 +118,7 @@ Full-Stack Developer และ System Engineer ประสบการณ์ **
 - **DevOps:** จัดการระบบ Linux, Shell scripting, Build Kernel, ติดตั้ง Grafana
 
 #### **การพัฒนา Frontend**  
-- **Framework:** Angular (ชำนาญ), React.js, Vue.js
+- **Framework:** HTML5, CSS, Angular (ชำนาญ), React.js, Vue.js
 - **Styling:** Bootstrap, Tailwind CSS
 - **Mobile:** Flutter, Ionic Framework
 
@@ -165,10 +165,10 @@ DevOps/Infrastructure ██████████░░░ 80%
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ### 📫 ติดต่อ
-- 📧 **อีเมล:** your.email@gmail.com
+- 📧 **อีเมล:** 6amdev@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- 📱 **โทร:** +66-XX-XXX-XXXX
+- 🌐 **Portfolio:** [yourwebsite.com](https://6amdev.com)
+- 📱 **โทร:** +66-96-914-0962
 
 ---
 
